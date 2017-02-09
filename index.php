@@ -1,3 +1,5 @@
+
+<?php require('quoteSelector.php'); ?>
 <!DOCTYPE html>
 
 <html>
@@ -5,6 +7,7 @@
   <title>Varun Suresh Kumar</title>
   <link rel="stylesheet" href="styles.css">
  </head>
+
  <body>
   <div>
    <h1>Varun Suresh Kumar</h1>
@@ -16,6 +19,7 @@
    I have taken a couple of programming courses in the past two semesters but all of my web development knowledge is self taught.
    I am looking forward to a great semester where I can sharpen my skills in the field of dynamic web applications.</p>
    <h2>Random Quote</h2>
+   <p><?php echo $quote; ?></p>
   </div>
  </body>
 </html>
