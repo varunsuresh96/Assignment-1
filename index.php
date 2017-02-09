@@ -11,7 +11,7 @@
  <body>
   <div>
    <h1>Varun Suresh Kumar</h1>
-   <img src="images/varun image.jpg"/>
+   <img src="images/varun image.jpg" alt="Varun"/>
    <h2>About Me</h2>
    <p>Hello ! My name is Varun Suresh Kumar and I am currently located in Bangalore City (India).
    I passed out of high school 2 years ago and I am now an undergraduate student at HES.
